@@ -1,7 +1,9 @@
 # embed-gh-md
 
 This is a simple Wordpress plugin that allows us to embed markdown files from GitHub on
-a page, simply by pasting the file's URL onto any page.
+a page, simply by pasting the file's URL onto any page. It is a small adaptation of
+the code presented in [ths blog
+post](https://piszek.com/2022/08/15/wordpress-github-markdown).
 
 ## Installation
 
