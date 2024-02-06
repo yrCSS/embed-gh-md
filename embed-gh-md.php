@@ -1,6 +1,16 @@
 <?php
 /*
- * Plugin Name: Embed GitHub Markdown
+ * Plugin Name:       Embed GitHub Markdown
+ * Plugin URI:        https://github.com/yrCSS/embed-gh-md
+ * Description:       Allows us to embed the contents of a markdown file hosted on GitHub onto a page in our Wordpress website.
+ * Version:           1.0.0
+ * Requires at least: 6.4
+ * Requires PHP:      8.4
+ * Author:            yrCSS
+ * Author URI:        https://yrcss.cssociety.org
+ * License:           GPL v2 or later
+ * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
+ * Update URI:        https://github.com/yrCSS/embed-gh-md
  */
 
 # From https://piszek.com/2022/08/15/wordpress-github-markdown/#
