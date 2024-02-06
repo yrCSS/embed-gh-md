@@ -5,7 +5,7 @@
  * Description:       Allows us to embed the contents of a markdown file hosted on GitHub onto a page in our Wordpress website.
  * Version:           1.0.0
  * Requires at least: 6.4
- * Requires PHP:      8.4
+ * Requires PHP:      8.0
  * Author:            yrCSS
  * Author URI:        https://yrcss.cssociety.org
  * License:           GPL v2 or later
